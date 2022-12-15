@@ -22,6 +22,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //introduczo esto nuevo
             Alumno miAlumno = new Alumno();
             String miAlumnoStr, miAlumnoNotaText;
 
